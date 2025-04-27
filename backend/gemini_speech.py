@@ -1,7 +1,7 @@
 import asyncio
 import os
+import google.generativeai as genai
 from dotenv import load_dotenv
-from google import genai
 from google.genai import types
 import numpy as np
 
