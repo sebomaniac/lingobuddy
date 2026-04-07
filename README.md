@@ -7,7 +7,7 @@
 - [Setup Instructions](#setup-instructions)
 
 ## Project Members
-Jeff Huang, Lorelei Tang, Hannah Kendall, Sebastian Mendez Johannessen
+Jeff Huang, Lorelei Tang, Hannah Kendall, Sebastian Johannessen
 
 ## Project Description
 LingoBuddy is an AI-powered tool for learning new languages. It provides a platform for practicing language skills through interactive exercises, quizzes, and conversation simulations. The tool is designed to be user-friendly and accessible, suitable for learners of all levels.
